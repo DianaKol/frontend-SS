@@ -5,12 +5,7 @@ let range = (array, start, end ) => {
   array.push(end);
   return arr;
 }
-//function sum (array){ 
-//let l=0;
-//for(let i=0; i<=array.lenght; i++)
-//l+=array[i];
-//returnl;
-//}
+
 let sum = (array) =>
 {
   let sum1 = 0;
