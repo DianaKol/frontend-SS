@@ -1,4 +1,4 @@
-let reverseArray = (array) => {
+let reverseArray = (array) =>{
     let arr=[];
     arr = array.reverse();
     return arr;
